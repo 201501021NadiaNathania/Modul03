@@ -1,0 +1,24 @@
+body {
+        background:white;
+        text-align: center;
+      }
+
+.box1 {
+       width : 1150px;
+      }
+
+.kotakan1 {
+            width : 300px;
+            height : 185px;
+            padding :15px;
+            background: skyblue;
+          }
+
+.kotakan2 {
+            width : auto;
+            height : 175px;
+            margin : 5px 5px 5px 5px;
+            background : grey;
+            border-radius : 20px 20px 20px 20px;
+            font-size: 20pt;
+          }
